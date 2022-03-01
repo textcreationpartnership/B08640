@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of my Lord Roos. the Lord Roos did in the Court of Arches cant. London, sue his lady in a cause of separation and divorce propter adulterium.  The lady his wife appeared to that suit in the Arches.  The Lord Roos libelled against her in that court.  Witnesses were in that court examined.  There was publication.  The cause was afterwards in that court concluded and assigned for sentence.  Information upon the whole matter was had.  And the Dean of the Arches after such information had upon the merits of the cause, gave sentence of divorce against the lady propter adulterium.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08640</idno>
+            <idno type="STC">Wing C962B</idno>
+            <idno type="STC">ESTC R173542</idno>
+            <idno type="EEBO-CITATION">64551034</idno>
+            <idno type="OCLC">ocm 64551034</idno>
+            <idno type="VID">184421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184421)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of my Lord Roos. the Lord Roos did in the Court of Arches cant. London, sue his lady in a cause of separation and divorce propter adulterium.  The lady his wife appeared to that suit in the Arches.  The Lord Roos libelled against her in that court.  Witnesses were in that court examined.  There was publication.  The cause was afterwards in that court concluded and assigned for sentence.  Information upon the whole matter was had.  And the Dean of the Arches after such information had upon the merits of the cause, gave sentence of divorce against the lady propter adulterium.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rutland, John Manners, --  Duke of, 1638-1711 --  Trials, litigation, etc.</term>
+               <term>Divorce --  England --  Early works to 1800.</term>
+               <term>Trials (Divorce) --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:184421:1" rendition="simple:additions"/>
+            <head>THE CASE of my Lord ROOS.</head>
+            <argument>
+               <p>THe Lord <hi>Roos</hi> did in the Court of Arches <hi>Cant. London,</hi> ſue his Lady in a Cauſe of Separation and Divorce <hi>propter Adulterium.</hi>
+               </p>
+               <p>The Lady his wife appeared to that ſuit in the Arches.</p>
+               <p>The Lord <hi>Roos</hi> libelled againſt her in that Court.</p>
+               <p>Witneſſes were in that Court examined.</p>
+               <p>There was Publication.</p>
+               <p>The Cauſe was afterwards in that Court concluded and aſſigned for ſentence.</p>
+               <p>Information upon the whole matter was had.</p>
+               <p>And the Dean of the Arches after ſuch Information had upon the merits of the Cauſe, gave Sentence of Divorce againſt the Lady <hi>propter Adulterium.</hi>
+               </p>
+            </argument>
+            <head>Anno v. Edw. vj. <hi>An Act touching the Marriage of the Lord Marqueſs of</hi> Northampton, <hi>and the Lady</hi> Elizabeth <hi>his Wife.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Here the Right Honorable <hi>William</hi> Marqueſs of <hi>Northampton,</hi> by lawful Sentence before Competent Judges, according to the Eccleſiaſticall Laws uſed in this Realme, was and is moſt juſtly divorced from the Lady <hi>Anne Bowrgſher,</hi> one of the Daughters of <hi>Henry,</hi> late Earle of <hi>Eſſex,</hi> ſometime his Wife, for her diſſolute living and manifeſt Adultery, And ſo being Separate, Divorced, and at Liberty, by the Laws of God to marry, about Four years paſt, Solemnly and Lawfully did Marry the good and Vertuous Lady <hi>Elizabeth,</hi> Daugh<g ref="char:EOLhyphen"/>ter to Sir <hi>George Brooke,</hi> Lord <hi>Cobham.</hi> The <hi>KINGS</hi> moſt Excellent Majeſty tendring as well the honorable Eſtate and Fame of the ſaid Marqueſs and <hi>Elizabeth</hi> his Wife, as the Continuance of the Family and Po<g ref="char:EOLhyphen"/>ſterity of the ſaid Marqueſs and <hi>Elizabeth</hi> in honorable and lawful Succeſsion: And that ſuch Iſſue as ſhould come betwixt the ſaid Marqueſs and <hi>Elizabeth</hi> ſhould be counted, reputed and taken of all His Subjects for Lawfull, as by the Law of God they be in very deed, is pleaſed and contented, That it be enacted by the Aſſent of His High<g ref="char:EOLhyphen"/>neſs, the Lords Spiritual and Temporal, and the Commons in this preſent Parliament aſſembled, and by the Authority of the ſame, That the ſaid Marriage ſolemnized and had betwixt the Marqueſs and <hi>Elizabeth,</hi> ſhall be adjudged, deemed, reputed and taken in all places of this Realme and elſe where, and in all his Highneſſes Courts Eccleſiaſtical and Temporal for Lawful, to all Intents, Conſtructions and purpoſes; and that the ſaid <hi>Elizabeth</hi> ſhall, as well in the Life of the ſaid Marqueſs, as after his death, if ſhe happen to overlive him, be inabled by the Authority of this Act, to demand, have and enjoy as well her Ioynture or Dower of, in, and to all the Mannours, Lands and Tenements which the ſaid Marqueſs ſhall have of any State of Inheritance, whereof any his Lawful wife is, may, or ought to be Dowable, As alſo all ſuch Honour, Place, Dignity, Preheminence, Profit and Commodity, as ſhe might in any wiſe aske, Challenge or Demand, as if the ſaid Lady <hi>Anne</hi> had been naturally dead before the Intermarriage of the ſaid Marqueſs and <hi>Elizabeth,</hi> and in as large and ample manner as any other lawful Wife to any of the <hi>KINGS</hi> Subjects ought, ſhould or might, either in the Life of her Husband, or after his Death claim, challenge, demand or have: And that ſuch Iſſue as ſhall happen to be betwixt the ſaid Marqueſs and <hi>Elizabeth,</hi> ſhall by th Authority of this Act be adjudged, dee<g ref="char:EOLhyphen"/>med, reputed, and taken for Legitimate and Lawfully begotten of the Bodies of the ſaid Marqueſs and <hi>Elizabeth,</hi> to all In<g ref="char:EOLhyphen"/>tents, Conſtructions, and purpoſes in the Law, and otherwiſe. And for all manner Degrees, Dignities, Stiles or Prehemi<g ref="char:EOLhyphen"/>nences belonging to any Child or Children lawfully begotten by ſuch men and perſonages of Degree, as the ſaid Marqueſs is or hereafter may be, And ſhall by the Authority of this Act, as well be inabled to claime, challenge and demand after the death of the ſaid Marqueſs and <hi>Elizabeth,</hi> or either of them, as heire and heirs to the ſaid Marqueſs and <hi>Elizabeth</hi> and either of them, all ſuch Mannors, Lands, Tenements, Hereditaments and Rights, as they or either of them ſhall Dye Seiſed of, of any eſtate of In<g ref="char:EOLhyphen"/>heritance, as alſo be inabled as heir and heirs, and to be Inheritable to any of the Anceffors, Coliateral or Lineall of the ſaid Mar<g ref="char:EOLhyphen"/>queſs and <hi>Elizabeth,</hi> or either of them, in as large and ample manner to all Intents, Conſtructions and Purpoſes, as the Children born in lawful Matrimony betwixt any other of the Kings Subjects be, and ought to be: And that it ſhall be lawfull for ſuch Iſſue as is aforeſaid to uſe for the Recovery of any Lands, Tenements, Hereditaments and Rights, all and every ſuch Action either of his and their own Poſſeſsion and Seiſin, or of the Poſſeſsion and Seiſin of the ſaid Marqueſs and <hi>Elizabeth,</hi> or either of them, or of the Poſſeſsion and Seiſin of any Anceſtor Coliateral or lineal to the ſaid Marqueſs and <hi>Elizabeth,</hi> or to either and every of them, and to make their title as heire or heires to them or any of them, in as large and ample manner as any other of the Kings Subjects, born in lawful Matrimony, might or ought after the death of any their Anceſtors; The ſaid former Marriage betwixt the ſaid Marqueſs and <hi>Anne,</hi> or any Decretal Canon, Conſtitution. Eccleſiaſtical Law, Common Law, Statute, Vſage, Preſeri<g ref="char:EOLhyphen"/>ption or Cuſtome of this Realme to the Contrary in any wiſe Notwithſtanding.</p>
+            <closer>
+               <hi>Copia vera.</hi>
+               <signed>
+                  <hi>Jo. Browne, <hi>Cleric. Parliamentorum.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:184421:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
